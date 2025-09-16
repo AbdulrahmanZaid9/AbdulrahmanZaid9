@@ -4,20 +4,22 @@
 <a href='https://github.com/AbdulrahmanZaid9'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
 
 I’m a **Software Engineering student** at Infrastructure University Kuala Lumpur (IUKL).  
-I’m passionate about **building web applications, digital products, and learning new technologies**.  
-My long-term goal is to become a **Full Stack Web Developer 🌐** and work on projects that make an impact.  
+I love **building web applications, digital products, and exploring new technologies**.  
+My long-term goal is to become a **Full Stack Web Developer 🌐** and create impactful projects.
 
 <br/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **personal projects and digital tools**
-- 🌱 &nbsp; I’m learning **modern web development technologies and backend concepts**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/AbdulrahmanZaid9?tab=repositories)
-- 💬 &nbsp; Ask me about **web development, programming, or digital product ideas**
+- 🌱 &nbsp; I’m learning **modern web development and backend concepts**
+- 👨🏻‍💻 &nbsp; Most of my projects are on [GitHub](https://github.com/AbdulrahmanZaid9?tab=repositories)
+- 💬 &nbsp; Ask me about **web development, programming, or digital products**
 - 📫 &nbsp; Ping me on [LinkedIn](https://www.linkedin.com/in/abdulrahman-gehad/)
 - 📝 &nbsp; Checkout my [resume](#)
-- 📚 &nbsp; When I’m free, I enjoy **reading, learning about productivity, and exploring new ideas**
+- 📚 &nbsp; I enjoy **reading, learning about productivity, and exploring new ideas**
 - 🍗 &nbsp; Fun fact: I love **tasty and spicy chicken**!
 
 <br>
@@ -38,7 +40,7 @@ My long-term goal is to become a **Full Stack Web Developer 🌐** and work on p
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/AbdulrahmanZaid9" target="_blank"> <img alt="projects" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/AbdulrahmanZaid9" target="_blank"> <img alt="projects" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/projects/sheetsdatabase.svg" height="68" align="left"> </a>
-<a href="https://github.com/AbdulrahmanZaid9" target="_blank"> <img alt="projects" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/projects/passwordkeeper.svg" height="68" align="left"> </a>
+<a href="https://github.com/AbdulrahmanZaid9" target="_blank"> <img alt="project1" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://github.com/AbdulrahmanZaid9" target="_blank"> <img alt="project2" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/projects/sheetsdatabase.svg" height="68" align="left"> </a>
+<a href="https://github.com/AbdulrahmanZaid9" target="_blank"> <img alt="project3" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/projects/passwordkeeper.svg" height="68" align="left"> </a>
 
