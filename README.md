@@ -1,46 +1,95 @@
-## Hey 👋, I'm عبد الرحمن!
+<div align="center" width="100%">
 
-<a href='https://www.linkedin.com/in/abdulrahman-gehad/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://github.com/AbdulrahmanZaid9'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-I’m a **Software Engineering student** at Infrastructure University Kuala Lumpur (IUKL).  
-I love **building web applications, digital products, and exploring new technologies**.  
-My long-term goal is to become a **Full Stack Web Developer 🌐** and create impactful projects.
+</div>
 
-<br/>
+<hr>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+### 👋 Hello! I'm **Ahmed Yaser Metwalli** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+A student passionate about programming 🚀. Currently learning **C++**, **OOP** and problem-solving using **Visual Studio** to build my skills 💻.  
+Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improving my skills, and sharing my progress with the community.
 
-### 🧐 More About Me:
+---
 
-- 🔭 &nbsp; I’m currently working on **personal projects and digital tools**
-- 🌱 &nbsp; I’m learning **modern web development and backend concepts**
-- 👨🏻‍💻 &nbsp; Most of my projects are on [GitHub](https://github.com/AbdulrahmanZaid9?tab=repositories)
-- 💬 &nbsp; Ask me about **web development, programming, or digital products**
-- 📫 &nbsp; Ping me on [LinkedIn](https://www.linkedin.com/in/abdulrahman-gehad/)
-- 📝 &nbsp; Checkout my [resume](#)
-- 📚 &nbsp; I enjoy **reading, learning about productivity, and exploring new ideas**
-- 🍗 &nbsp; Fun fact: I love **tasty and spicy chicken**!
+### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30">
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</div>
 
-<br>
+---
 
-### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
-<a href="https://www.figma.com/" target="_blank"><img align="left" alt="figma" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></a>
+### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+- [Project 1 ( Stone - Paper - Scissor )](https://github.com/AhmedYaser-Mt/Project-1-Stone---Paper---Scissor-)
+- [Project 2 ( Math Game )](https://github.com/AhmedYaser-Mt/Project-2-Math-Game-)
+- [Project 3 ( Banking System )](https://github.com/AhmedYaser-Mt/Project-3-Bank-1-)
+- [Project 4 ( ATM System )](https://github.com/AhmedYaser-Mt/Project-4-ATM-System-)
 
-<br>
+---
 
-### 📊 Github Stats
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
+- 10 - OOP as it should be (concepts) (Programming Advices)
+- Completed 9+ courses in Abu-Hadhoud Roadmap (Programming Advices)
+- Solved 400+ programming problems
 
-<br>
+---
 
-### 🛠️ My Projects
-<a href="https://github.com/AbdulrahmanZaid9" target="_blank"> <img alt="project1" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/AbdulrahmanZaid9" target="_blank"> <img alt="project2" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/projects/sheetsdatabase.svg" height="68" align="left"> </a>
-<a href="https://github.com/AbdulrahmanZaid9" target="_blank"> <img alt="project3" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/projects/passwordkeeper.svg" height="68" align="left"> </a>
+### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
+- **Abu-Hadhoud Roadmap**
+- Mastering **C++** & **OOP** 💡  
+- Algorithms and Problem Solving  
+- Practicing with small projects 🛠️  
+- Improving my professional profile on **GitHub** and **LinkedIn**
 
+---
+
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
+</div>
+
+---
+
+<div align="center"> 
+  <table> 
+    <tr> 
+      <td> 
+        <img src="https://github-readme-stats.vercel.app/api?username=AhmedYaser-Mt&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="AhmedYaser-Mt's GitHub stats" /> 
+      </td> 
+      <td> 
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedYaser-Mt&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
+      </td> 
+    </tr> 
+  </table> 
+  <br> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYaser-Mt&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedYaser-Mt&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
+
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AhmedYaser-Mt?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+</p>
+
+---
+
+### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmed-yaser-mt">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmed.yaser.mt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201014842264">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
+
+---
