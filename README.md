@@ -19,7 +19,7 @@
 </div>
 
 **UML & Diagramming Skills:**  
-                                    ![Use Case](https://img.shields.io/badge/Use%20Case%20Diagram-blue?style=for-the-badge)    ![Class](https://img.shields.io/badge/Class%20Diagram-orange?style=for-the-badge)    ![Activity](https://img.shields.io/badge/Activity%20Diagram-green?style=for-the-badge)    ![DFD](https://img.shields.io/badge/DFD-lightgrey?style=for-the-badge)    ![Flowchart](https://img.shields.io/badge/Flowchart-purple?style=for-the-badge)    ![Wireframe](https://img.shields.io/badge/Wireframe-red?style=for-the-badge)    ![Gantt](https://img.shields.io/badge/Gantt%20Chart-yellow?style=for-the-badge)     
+                                    .![Use Case](https://img.shields.io/badge/Use%20Case%20Diagram-blue?style=for-the-badge)    ![Class](https://img.shields.io/badge/Class%20Diagram-orange?style=for-the-badge)    ![Activity](https://img.shields.io/badge/Activity%20Diagram-green?style=for-the-badge)    ![DFD](https://img.shields.io/badge/DFD-lightgrey?style=for-the-badge)    ![Flowchart](https://img.shields.io/badge/Flowchart-purple?style=for-the-badge)    ![Wireframe](https://img.shields.io/badge/Wireframe-red?style=for-the-badge)    ![Gantt](https://img.shields.io/badge/Gantt%20Chart-yellow?style=for-the-badge)     
 
 ---
 
