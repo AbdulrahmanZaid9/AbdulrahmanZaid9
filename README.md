@@ -34,7 +34,7 @@
 - Completed 10 certificates in Abu-Hadhoud Roadmap 🎓  
 - Completed 8 small projects to practice real-world coding 🛠️  
 - Solved 600+ programming problems ✅  
-
+- Learned and practiced UML & advanced diagramming skills 🎨
 ---
 
 ### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
