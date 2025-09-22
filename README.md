@@ -106,35 +106,17 @@
 
 ---
 
-```cpp
-// Hello there! 🚀 Focused on learning, coding, and creating
-class AbdulrahmanZaid {
+class LifeJourney {
 public:
-    string university = "KLUST University";
-    string track = "Software Engineering Student";
-    string roadmap = "Abu-Hadhoud 24-Course Roadmap (C++ • Java • OOP • Data Structures)";
-    string aspiration = "Aspiring Full-Stack Web Developer";
-    string passion = "Solving Problems, Building Projects, and Exploring New Diagrams!";
-    
-    void sayHi() { 
-        cout << "Hi! I'm Abdulrahman Zaid 👋\n";
-        cout << "Thanks for visiting my GitHub profile! 🚀\n";
-        cout << "Always learning, always coding! 💻"; 
+    string path = "Unknown";
+    int steps = 0;
+
+    void moveForward() {
+        steps++;
+        path = "Learning and Growing";
     }
 
-    void currentFocus() {
-        cout << "- Mastering C++, Java & OOP 💡\n";
-        cout << "- Exploring Algorithms & Problem Solving 🔍\n";
-        cout << "- Learning advanced Diagramming & Visualization Skills 🎨\n";
-        cout << "  (Use Case, Class, Activity, DFD, Flowchart, Wireframe, Gantt Chart)\n";
-        cout << "  (Sequence, State, Component, ER Diagrams, Mind Maps)\n";
-        cout << "- Building small projects 🛠️\n";
-    }
-
-    void achievements() {
-        cout << "- Completed 10 certificates in Abu-Hadhoud Roadmap 🎓\n";
-        cout << "- Completed 8 small projects to practice real-world coding 🛠️\n";
-        cout << "- Solved 600+ programming problems ✅\n";
-        cout << "- Learned and practiced UML & advanced diagramming skills 🎨\n";
+    void reflect() {
+        cout << "Every step shapes who we are.\n";
     }
 };
