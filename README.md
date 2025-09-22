@@ -8,8 +8,6 @@
 
 ### 👋 Hello! I'm **Abdulrahman Zaid** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 **Software Engineering Student | Advancing through Abu Hadhoud’s 24‑Course Roadmap (C++ • Java • OOP • Data Structures) | Aspiring Full‑Stack Web Developer**  
-Passionate about programming 🚀. Currently focusing on **C++**, **Java**, **OOP**, and building projects using **Visual Studio**.  
-I enjoy problem-solving, learning new skills, and sharing my progress with the community.
 
 ---
 
@@ -28,6 +26,7 @@ I enjoy problem-solving, learning new skills, and sharing my progress with the c
 - Flowchart  
 - Wireframe  
 - Gantt Chart  
+- Advanced Diagrams & Visualization: Sequence, State, Component, ER Diagrams, Mind Maps  
 
 ---
 
@@ -40,8 +39,9 @@ I enjoy problem-solving, learning new skills, and sharing my progress with the c
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- Completed 10 certificates in Abu-Hadhoud Roadmap (Programming Advices)  
-- Solved 600+ programming problems  
+- Completed 10 certificates in Abu-Hadhoud Roadmap 🎓  
+- Completed 8 small projects to practice real-world coding 🛠️  
+- Solved 600+ programming problems ✅  
 
 ---
 
@@ -50,7 +50,8 @@ I enjoy problem-solving, learning new skills, and sharing my progress with the c
 - Deepening knowledge in **C++**, **Java**, and **OOP** 💡  
 - Practicing **algorithms** and **problem-solving** daily  
 - Building small projects to sharpen coding skills 🛠️  
-- Learning **UML & Diagramming skills** including Use Case, Class, Activity, DFD, Flowcharts, and Wireframes  
+- Learning **advanced UML & Diagramming Skills** 🎨  
+  (Sequence, State, Component, ER Diagrams, Mind Maps, Wireframes)  
 - Enhancing professional presence on **GitHub** and **LinkedIn**  
 
 ---
@@ -112,7 +113,7 @@ public:
     string track = "Software Engineering Student";
     string roadmap = "Abu-Hadhoud 24-Course Roadmap (C++ • Java • OOP • Data Structures)";
     string aspiration = "Aspiring Full-Stack Web Developer";
-    string passion = "Solving Problems, Building Projects, and Learning New Diagrams!";
+    string passion = "Solving Problems, Building Projects, and Exploring New Diagrams!";
     
     void sayHi() { 
         cout << "Hi! I'm Abdulrahman Zaid 👋\n";
@@ -123,7 +124,14 @@ public:
     void currentFocus() {
         cout << "- Mastering C++, Java & OOP 💡\n";
         cout << "- Exploring Algorithms & Problem Solving 🔍\n";
-        cout << "- Learning UML & Diagramming Skills 📊\n";
+        cout << "- Learning advanced Diagramming & Visualization Skills 🎨\n";
+        cout << "  (Sequence, State, Component, ER Diagrams, Mind Maps, Wireframes)\n";
         cout << "- Building small projects 🛠️\n";
+    }
+
+    void achievements() {
+        cout << "- Completed 10 certificates in Abu-Hadhoud Roadmap 🎓\n";
+        cout << "- Completed 8 small projects to practice real-world coding 🛠️\n";
+        cout << "- Solved 600+ programming problems ✅\n";
     }
 };
