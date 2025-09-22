@@ -104,8 +104,9 @@
 </div>
 
 
----
+```cpp
 
+// Symbolic Life Journey 🚀
 class LifeJourney {
 public:
     string path = "Unknown";
@@ -119,4 +120,6 @@ public:
     void reflect() {
         cout << "Every step shapes who we are.\n";
     }
+};
+
 };
