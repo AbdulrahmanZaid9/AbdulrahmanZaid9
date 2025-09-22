@@ -7,7 +7,7 @@
 <hr>
 
 ### 👋 Hello! I'm **Abdulrahman Zaid** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-**Software Engineering Student | Advancing through Abu Hadhoud’s 24‑Course Roadmap (C++ • Java • OOP • Data Structures) | Aspiring Full‑Stack Web Developer**  
+**🎓 Software Engineering Student | 💻 Advancing through Abu Hadhoud’s 24‑Course Roadmap (C++ • Java • OOP • Data Structures) | 🌐 Aspiring Full‑Stack Web Developer**  
 
 ---
 
@@ -19,33 +19,41 @@
 </div>
 
 **UML & Diagramming Skills:**  
-                                    ![Use Case](https://img.shields.io/badge/Use%20Case%20Diagram-blue?style=for-the-badge)    ![Class](https://img.shields.io/badge/Class%20Diagram-orange?style=for-the-badge)    ![Activity](https://img.shields.io/badge/Activity%20Diagram-green?style=for-the-badge)    ![DFD](https://img.shields.io/badge/DFD-lightgrey?style=for-the-badge)    ![Flowchart](https://img.shields.io/badge/Flowchart-purple?style=for-the-badge)    ![Wireframe](https://img.shields.io/badge/Wireframe-red?style=for-the-badge)    ![Use Case Desc](https://img.shields.io/badge/Use%20Case%20Description-lightblue?style=for-the-badge)  
-
+![Use Case](https://img.shields.io/badge/Use%20Case%20Diagram-blue?style=for-the-badge)  
+![Use Case Desc](https://img.shields.io/badge/Use%20Case%20Description-lightblue?style=for-the-badge)  
+![Class](https://img.shields.io/badge/Class%20Diagram-orange?style=for-the-badge)  
+![Activity](https://img.shields.io/badge/Activity%20Diagram-green?style=for-the-badge)  
+![DFD](https://img.shields.io/badge/DFD-lightgrey?style=for-the-badge)  
+![Flowchart](https://img.shields.io/badge/Flowchart-purple?style=for-the-badge)  
+![Wireframe](https://img.shields.io/badge/Wireframe-red?style=for-the-badge)  
+![Gantt](https://img.shields.io/badge/Gantt%20Chart-yellow?style=for-the-badge)  
 
 ---
 
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-- [Project 1: Client Account Manager](https://github.com/AbdulrahmanZaid9/ClientAccountManager)  
-- [Project 2: ATM System](https://github.com/AbdulrahmanZaid9/ATM)  
-- [Project 3: Math Game](https://github.com/AbdulrahmanZaid9/MathGame)  
-- [Project 4: Rock Paper Scissors Game](https://github.com/AbdulrahmanZaid9/RPSGame)  
+- 🚀 [Project 1: Client Account Manager](https://github.com/AbdulrahmanZaid9/ClientAccountManager)  
+- 💳 [Project 2: ATM System](https://github.com/AbdulrahmanZaid9/ATM)  
+- 🎮 [Project 3: Math Game](https://github.com/AbdulrahmanZaid9/MathGame)  
+- ✂️ [Project 4: Rock Paper Scissors Game](https://github.com/AbdulrahmanZaid9/RPSGame)  
+
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- Completed 10 certificates in Abu-Hadhoud Roadmap 🎓  
-- Completed 8 small projects to practice real-world coding 🛠️  
-- Solved 600+ programming problems ✅  
-- Learned and practiced UML & advanced diagramming skills 🎨
+- 🎓 Completed 10 certificates in Abu-Hadhoud Roadmap  
+- 🛠️ Completed 8 small projects to practice real-world coding  
+- ✅ Solved 600+ programming problems  
+- 🎨 Learned and practiced UML & advanced diagramming skills  
+
 ---
 
 ### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
-- Progressing through **Abu-Hadhoud Roadmap** courses  
-- Deepening knowledge in **C++**, **Java**, and **OOP** 💡  
-- Practicing **algorithms** and **problem-solving** daily  
-- Building small projects to sharpen coding skills 🛠️  
-- Learning **advanced UML & Diagramming Skills** 🎨  
-  (Sequence, State, Component, ER Diagrams, Mind Maps, Wireframes)  
-- Enhancing professional presence on **GitHub** and **LinkedIn**  
+- 📘 Progressing through **Abu-Hadhoud Roadmap** courses  
+- 💡 Deepening knowledge in **C++**, **Java**, and **OOP**  
+- 🔍 Practicing **algorithms** and **problem-solving** daily  
+- 🛠️ Building small projects to sharpen coding skills  
+- 🎨 Learning **advanced UML & Diagramming Skills** (Sequence, State, Component, ER Diagrams, Mind Maps, Wireframes)  
+- 🌐 Enhancing professional presence on **GitHub** and **LinkedIn**  
+
 ---
 
 <div align="center">
@@ -85,13 +93,13 @@
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-yaser-mt">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    🔗 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ahmed.yaser.mt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    ✉️ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/201014842264">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    💬 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
 
@@ -126,5 +134,6 @@ public:
         cout << "- Completed 10 certificates in Abu-Hadhoud Roadmap 🎓\n";
         cout << "- Completed 8 small projects to practice real-world coding 🛠️\n";
         cout << "- Solved 600+ programming problems ✅\n";
+        cout << "- Learned and practiced UML & advanced diagramming skills 🎨\n";
     }
 };
