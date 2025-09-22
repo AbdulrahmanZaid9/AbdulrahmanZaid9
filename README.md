@@ -106,7 +106,6 @@
 
 ```cpp
 
-// Symbolic Life Journey 🚀
 class LifeJourney {
 public:
     string path = "Unknown";
