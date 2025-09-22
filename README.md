@@ -92,7 +92,7 @@
 
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
-  <a href="www.linkedin.com/in/abdulrahman-zaid">
+  <a href="https://www.linkedin.com/in/abdulrahman-zaid/">
     🔗 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abdulrahmanzaid755@gmail.com">
