@@ -19,14 +19,13 @@
 </div>
 
 **UML & Diagramming Skills:**  
-- ![Use Case](https://img.shields.io/badge/Use%20Case%20Diagram-blue?style=for-the-badge) Use Case Diagram & Description  
-- ![Class](https://img.shields.io/badge/Class%20Diagram-orange?style=for-the-badge) Class Diagram  
-- ![Activity](https://img.shields.io/badge/Activity%20Diagram-green?style=for-the-badge) Activity Diagram  
-- ![DFD](https://img.shields.io/badge/DFD-lightgrey?style=for-the-badge) Data Flow Diagram  
-- ![Flowchart](https://img.shields.io/badge/Flowchart-purple?style=for-the-badge) Flowchart  
-- ![Wireframe](https://img.shields.io/badge/Wireframe-red?style=for-the-badge) Wireframe  
-- ![Gantt](https://img.shields.io/badge/Gantt%20Chart-yellow?style=for-the-badge) Gantt Chart  
-- Advanced Diagrams & Visualization: Sequence, State, Component, ER Diagrams, Mind Maps  
+- ![Use Case](https://img.shields.io/badge/Use%20Case%20Diagram-blue?style=for-the-badge)   
+- ![Class](https://img.shields.io/badge/Class%20Diagram-orange?style=for-the-badge)   
+- ![Activity](https://img.shields.io/badge/Activity%20Diagram-green?style=for-the-badge)   
+- ![DFD](https://img.shields.io/badge/DFD-lightgrey?style=for-the-badge)   
+- ![Flowchart](https://img.shields.io/badge/Flowchart-purple?style=for-the-badge)   
+- ![Wireframe](https://img.shields.io/badge/Wireframe-red?style=for-the-badge)   
+- ![Gantt](https://img.shields.io/badge/Gantt%20Chart-yellow?style=for-the-badge)     
 
 ---
 
@@ -35,7 +34,6 @@
 - [Project 2: ATM System](https://github.com/AbdulrahmanZaid9/ATM)  
 - [Project 3: Math Game](https://github.com/AbdulrahmanZaid9/MathGame)  
 - [Project 4: Rock Paper Scissors Game](https://github.com/AbdulrahmanZaid9/RPSGame)  
-
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
@@ -53,7 +51,6 @@
 - Learning **advanced UML & Diagramming Skills** 🎨  
   (Sequence, State, Component, ER Diagrams, Mind Maps, Wireframes)  
 - Enhancing professional presence on **GitHub** and **LinkedIn**  
-
 ---
 
 <div align="center">
