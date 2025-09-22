@@ -6,9 +6,10 @@
 
 <hr>
 
-### 👋 Hello! I'm **Ahmed Yaser Metwalli** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-A student passionate about programming 🚀. Currently learning **C++**, **OOP** and problem-solving using **Visual Studio** to build my skills 💻.  
-Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improving my skills, and sharing my progress with the community.
+### 👋 Hello! I'm **Abdulrahman Zaid** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+**Software Engineering Student | Advancing through Abu Hadhoud’s 24‑Course Roadmap (C++ • Java • OOP • Data Structures) | Aspiring Full‑Stack Web Developer**  
+Passionate about programming 🚀. Currently focusing on **C++**, **Java**, **OOP**, and building projects using **Visual Studio**.  
+I enjoy problem-solving, learning new skills, and sharing my progress with the community.
 
 ---
 
@@ -16,31 +17,41 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </div>
+
+**UML & Diagramming Skills:**  
+- Use Case Diagram & Use Case Description  
+- Class Diagram  
+- Activity Diagram  
+- Data Flow Diagram (DFD)  
+- Flowchart  
+- Wireframe  
+- Gantt Chart  
 
 ---
 
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-- [Project 1 ( Stone - Paper - Scissor )](https://github.com/AhmedYaser-Mt/Project-1-Stone---Paper---Scissor-)
-- [Project 2 ( Math Game )](https://github.com/AhmedYaser-Mt/Project-2-Math-Game-)
-- [Project 3 ( Banking System )](https://github.com/AhmedYaser-Mt/Project-3-Bank-1-)
-- [Project 4 ( ATM System )](https://github.com/AhmedYaser-Mt/Project-4-ATM-System-)
+- [Project 1: Client Account Manager](https://github.com/AbdulrahmanZaid9/ClientAccountManager)  
+- [Project 2: ATM System](https://github.com/AbdulrahmanZaid9/ATM)  
+- [Project 3: Math Game](https://github.com/AbdulrahmanZaid9/MathGame)  
+- [Project 4: Rock Paper Scissors Game](https://github.com/AbdulrahmanZaid9/RPSGame)  
 
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- 10 - OOP as it should be (concepts) (Programming Advices)
-- Completed 9+ courses in Abu-Hadhoud Roadmap (Programming Advices)
-- Solved 400+ programming problems
+- Completed 10 certificates in Abu-Hadhoud Roadmap (Programming Advices)  
+- Solved 600+ programming problems  
 
 ---
 
 ### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
-- **Abu-Hadhoud Roadmap**
-- Mastering **C++** & **OOP** 💡  
-- Algorithms and Problem Solving  
-- Practicing with small projects 🛠️  
-- Improving my professional profile on **GitHub** and **LinkedIn**
+- Progressing through **Abu-Hadhoud Roadmap** courses  
+- Deepening knowledge in **C++**, **Java**, and **OOP** 💡  
+- Practicing **algorithms** and **problem-solving** daily  
+- Building small projects to sharpen coding skills 🛠️  
+- Learning **UML & Diagramming skills** including Use Case, Class, Activity, DFD, Flowcharts, and Wireframes  
+- Enhancing professional presence on **GitHub** and **LinkedIn**  
 
 ---
 
@@ -54,27 +65,26 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
   <table> 
     <tr> 
       <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=AhmedYaser-Mt&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="AhmedYaser-Mt's GitHub stats" /> 
+        <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanZaid9&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="AbdulrahmanZaid9's GitHub stats" /> 
       </td> 
       <td> 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedYaser-Mt&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanZaid9&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
       </td> 
     </tr> 
   </table> 
   <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYaser-Mt&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanZaid9&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedYaser-Mt&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
-
+![Trophy](https://github-profile-trophy.vercel.app/?username=AbdulrahmanZaid9&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/AhmedYaser-Mt?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+  <img src="https://img.shields.io/github/followers/AbdulrahmanZaid9?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
 </p>
 
 ---
@@ -93,3 +103,27 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 </div>
 
 ---
+
+```cpp
+// Hello there! 🚀 Focused on learning, coding, and creating
+class AbdulrahmanZaid {
+public:
+    string university = "KLUST University";
+    string track = "Software Engineering Student";
+    string roadmap = "Abu-Hadhoud 24-Course Roadmap (C++ • Java • OOP • Data Structures)";
+    string aspiration = "Aspiring Full-Stack Web Developer";
+    string passion = "Solving Problems, Building Projects, and Learning New Diagrams!";
+    
+    void sayHi() { 
+        cout << "Hi! I'm Abdulrahman Zaid 👋\n";
+        cout << "Thanks for visiting my GitHub profile! 🚀\n";
+        cout << "Always learning, always coding! 💻"; 
+    }
+
+    void currentFocus() {
+        cout << "- Mastering C++, Java & OOP 💡\n";
+        cout << "- Exploring Algorithms & Problem Solving 🔍\n";
+        cout << "- Learning UML & Diagramming Skills 📊\n";
+        cout << "- Building small projects 🛠️\n";
+    }
+};
