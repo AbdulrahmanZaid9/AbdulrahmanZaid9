@@ -93,16 +93,19 @@
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
   <a href="https://www.linkedin.com/in/abdulrahman-zaid">
-    🔗 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abdulrahmanzaid755@gamil.com">
-    ✉️ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="tel:+601124217254">
-    📞 <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=telephone&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <span>📍 Malaysia</span>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Location-Malaysia-F7DF1E?style=for-the-badge&logo=map-marker&logoColor=white" />
+  </a>
 </div>
+
 
 ---
 
