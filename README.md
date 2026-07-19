@@ -101,7 +101,7 @@ I enjoy turning what I learn into complete, working systems rather than isolated
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
 
 - 🎓 Completed 20 of 24 courses in the ProgrammingAdvices roadmap (Stage 1 & 2)
-- 🛠️ Built several small projects to practice real-world coding, plus one full-scale system (HMS)
+- 🛠️ Built several small projects to practice real-world coding, plus two full-scale system (HMS)
 - ✅ Solved 600+ programming problems
 - 🎨 Learned and practiced UML & advanced diagramming skills
 - 🗄️ Practical experience with SQL Server, ADO.NET, and layered application design
@@ -112,7 +112,6 @@ I enjoy turning what I learn into complete, working systems rather than isolated
 
 - 📘 Finishing the final stage of the **ProgrammingAdvices Roadmap** (Courses 21–24: Advanced T-SQL, Data Structures Level 2, Algorithms Level 6, Windows Services)
 - 💡 Deepening my knowledge of **C++**, **C#**, and **OOP** design
-- 🔍 Practicing **algorithms** and **problem-solving** daily
 - 🛠️ Building and refining real-world systems like Grand Palace HMS
 - 🎨 Learning **advanced UML & Diagramming Skills** (Sequence, State, Component, ER Diagrams, Mind Maps, Wireframes)
 - 🌐 Starting to explore **web development** (HTML, CSS, JavaScript) toward my full-stack goal
@@ -144,7 +143,9 @@ I enjoy turning what I learn into complete, working systems rather than isolated
 ---
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=AbdulrahmanZaid9&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AbdulrahmanZaid9?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+</p>
 
 ---
 
@@ -162,7 +163,7 @@ I enjoy turning what I learn into complete, working systems rather than isolated
   <a href="mailto:abdulrahmanzaid755@gmail.com">
     ✉️ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/+601124217254">
+  <a href="https://wa.me/+60147311694">
     💬 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
