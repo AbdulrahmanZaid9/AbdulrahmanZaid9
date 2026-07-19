@@ -86,11 +86,15 @@ I enjoy turning what I learn into complete, working systems rather than isolated
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 
 - 🏨 [Grand Palace HMS — Hotel Management System](https://github.com/AbdulrahmanZaid9/HMS)
-  C# WinForms desktop application built on a 3-tier architecture (Presentation, Business Logic, Data Access) with SQL Server, covering reservations, billing, service bookings, and reporting.
-- 🚀 [Client Account Manager](https://github.com/AbdulrahmanZaid9/ClientAccountManager)
-- 💳 [ATM System](https://github.com/AbdulrahmanZaid9/ATM)
-- 🎮 [Math Game](https://github.com/AbdulrahmanZaid9/MathGame)
-- ✂️ [Rock Paper Scissors Game](https://github.com/AbdulrahmanZaid9/RPSGame)
+  Full-stack C# WinForms application on a 3-tier architecture (Presentation, Business Logic, Data Access) with SQL Server, covering reservations, billing, service bookings, and reporting.
+- 🚗 [DriveTrack](https://github.com/AbdulrahmanZaid9/DriveTrack)
+  Full-stack application with a complete frontend, backend, and database layer for tracking and managing vehicle/drive records.
+- 🏦 [OOP-BankSystem](https://github.com/AbdulrahmanZaid9/OOP-BankSystem)
+  Console-based banking system built around core OOP principles — accounts, transactions, and banking operations with layered logic.
+- 📊 [Cpp-DataStructures](https://github.com/AbdulrahmanZaid9/Cpp-DataStructures)
+  Console application implementing core data structures in C++, with hands-on algorithmic logic and problem-solving.
+- 🍽️ [Card-Based Restaurant Ordering System](https://github.com/AbdulrahmanZaid9/Card-Based-Restaurant-Ordering-System)
+  Console application simulating a card-based restaurant ordering workflow — menu handling, order logic, and billing.
 
 ---
 
