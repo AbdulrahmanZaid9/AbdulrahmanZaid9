@@ -7,52 +7,112 @@
 <hr>
 
 ### 👋 Hello! I'm **Abdulrahman Zaid** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-**🎓 Software Engineering Student | 💻 Advancing through Abu Hadhoud’s 24‑Course Roadmap (C++ • Java • OOP • Data Structures) | 🌐 Aspiring Full‑Stack Web Developer**  
+
+**🎓 3rd-Year Software Engineering Student | 💻 20/24 Courses Completed — ProgrammingAdvices Roadmap by Dr. Mohammed Abu-Hadhoud | 🌐 Aspiring Full-Stack Web Developer**
+
+---
+
+### 🧑‍💻 About Me
+
+I'm a Software Engineering student in my third year, building a strong foundation in programming through a structured, project-driven roadmap rather than scattered tutorials. I've worked through 20 of the 24 courses in the ProgrammingAdvices roadmap, covering everything from programming foundations and algorithms to object-oriented design, data structures, databases, and full real-world system development in C#.
+
+I enjoy turning what I learn into complete, working systems rather than isolated exercises — my most recent project, a Hotel Management System, applies a 3-tier architecture, SQL Server, and clean OOP design end to end.
+
+- 🔭 Currently building desktop and console applications in C# and C++ with proper layered architecture
+- 🌱 Currently deepening my knowledge of Data Structures, Databases, and system design
+- 🎯 Long-term goal: becoming a well-rounded Full-Stack Web Developer
+- 💬 Ask me about C++, C#, OOP, SQL Server, or UML diagramming
 
 ---
 
 ### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30">
+
+**Languages**
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-**UML & Diagramming Skills:**  
-![Use Case](https://img.shields.io/badge/Use%20Case%20Diagram-blue?style=for-the-badge)  
-![Use Case Desc](https://img.shields.io/badge/Use%20Case%20Description-lightblue?style=for-the-badge)  
-![Class](https://img.shields.io/badge/Class%20Diagram-orange?style=for-the-badge)  
-![Activity](https://img.shields.io/badge/Activity%20Diagram-green?style=for-the-badge)  
-![DFD](https://img.shields.io/badge/DFD-lightgrey?style=for-the-badge)  
-![Flowchart](https://img.shields.io/badge/Flowchart-purple?style=for-the-badge)  
-![Wireframe](https://img.shields.io/badge/Wireframe-red?style=for-the-badge)  
-![Gantt](https://img.shields.io/badge/Gantt%20Chart-yellow?style=for-the-badge)  
+**Tools & Platforms**
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+**Core Concepts**
+<div align="center">
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Structures-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/3--Tier%20Architecture-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ADO.NET-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-red?style=for-the-badge" />
+</div>
+
+**UML & Diagramming Skills**
+<div align="center">
+  <img src="https://img.shields.io/badge/Use%20Case%20Diagram-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Use%20Case%20Description-lightblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Class%20Diagram-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Activity%20Diagram-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DFD-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flowchart-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireframe-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gantt%20Chart-yellow?style=for-the-badge" />
+</div>
+
+---
+
+### 🗺️ Roadmap Progress — ProgrammingAdvices (Dr. Mohammed Abu-Hadhoud)
+
+`Stage 1 & 2 · Courses 1–24 · 20/24 completed`
+
+| Stage | Focus Area | Status |
+|---|---|---|
+| 1–4 | Programming Foundations, Algorithms & C++ Level 1 | ✅ Completed |
+| 5–8 | Algorithms & Problem-Solving (Levels 2–4), C++ Level 2 | ✅ Completed |
+| 9–11 | Networking Foundations, OOP Concepts & Applications | ✅ Completed |
+| 12–13 | Data Structures Level 1, Algorithms Level 5 | ✅ Completed |
+| 14–17 | C# Level 1, SQL Databases (Concepts, Practice & Projects) | ✅ Completed |
+| 18–20 | ADO.NET, Full Real Project (DVLD), C# Level 2 | ✅ Completed |
+| 21–24 | Advanced T-SQL, Data Structures Level 2, Algorithms Level 6, Windows Services | 🔄 In Progress |
 
 ---
 
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-- 🚀 [Project 1: Client Account Manager](https://github.com/AbdulrahmanZaid9/ClientAccountManager)  
-- 💳 [Project 2: ATM System](https://github.com/AbdulrahmanZaid9/ATM)  
-- 🎮 [Project 3: Math Game](https://github.com/AbdulrahmanZaid9/MathGame)  
-- ✂️ [Project 4: Rock Paper Scissors Game](https://github.com/AbdulrahmanZaid9/RPSGame)  
+
+- 🏨 [Grand Palace HMS — Hotel Management System](https://github.com/AbdulrahmanZaid9/HMS)
+  C# WinForms desktop application built on a 3-tier architecture (Presentation, Business Logic, Data Access) with SQL Server, covering reservations, billing, service bookings, and reporting.
+- 🚀 [Client Account Manager](https://github.com/AbdulrahmanZaid9/ClientAccountManager)
+- 💳 [ATM System](https://github.com/AbdulrahmanZaid9/ATM)
+- 🎮 [Math Game](https://github.com/AbdulrahmanZaid9/MathGame)
+- ✂️ [Rock Paper Scissors Game](https://github.com/AbdulrahmanZaid9/RPSGame)
 
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- 🎓 Completed 10 certificates in Abu-Hadhoud Roadmap  
-- 🛠️ Completed 8 small projects to practice real-world coding  
-- ✅ Solved 600+ programming problems  
-- 🎨 Learned and practiced UML & advanced diagramming skills  
+
+- 🎓 Completed 20 of 24 courses in the ProgrammingAdvices roadmap (Stage 1 & 2)
+- 🛠️ Built several small projects to practice real-world coding, plus one full-scale system (HMS)
+- ✅ Solved 600+ programming problems
+- 🎨 Learned and practiced UML & advanced diagramming skills
+- 🗄️ Practical experience with SQL Server, ADO.NET, and layered application design
 
 ---
 
 ### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
-- 📘 Progressing through **Abu-Hadhoud Roadmap** courses  
-- 💡 Deepening knowledge in **C++**, **Java**, and **OOP**  
-- 🔍 Practicing **algorithms** and **problem-solving** daily  
-- 🛠️ Building small projects to sharpen coding skills  
-- 🎨 Learning **advanced UML & Diagramming Skills** (Sequence, State, Component, ER Diagrams, Mind Maps, Wireframes)  
-- 🌐 Enhancing professional presence on **GitHub** and **LinkedIn**  
+
+- 📘 Finishing the final stage of the **ProgrammingAdvices Roadmap** (Courses 21–24: Advanced T-SQL, Data Structures Level 2, Algorithms Level 6, Windows Services)
+- 💡 Deepening my knowledge of **C++**, **C#**, and **OOP** design
+- 🔍 Practicing **algorithms** and **problem-solving** daily
+- 🛠️ Building and refining real-world systems like Grand Palace HMS
+- 🎨 Learning **advanced UML & Diagramming Skills** (Sequence, State, Component, ER Diagrams, Mind Maps, Wireframes)
+- 🌐 Starting to explore **web development** (HTML, CSS, JavaScript) toward my full-stack goal
+- 🚀 Enhancing my professional presence on **GitHub** and **LinkedIn**
 
 ---
 
@@ -103,22 +163,21 @@
   </a>
 </div>
 
-
 ```cpp
-
-class LifeJourney {
+class SoftwareEngineer {
 public:
-    string path = "Unknown";
-    int steps = 0;
+    string name = "Abdulrahman Zaid";
+    string stage = "3rd Year Software Engineering Student";
+    int coursesCompleted = 20;
+    int coursesTotal = 24;
 
-    void moveForward() {
-        steps++;
-        path = "Learning and Growing";
+    void keepBuilding() {
+        coursesCompleted++;
+        cout << "One project closer to full-stack.\n";
     }
 
     void reflect() {
-        cout << "Every step shapes who we are.\n";
+        cout << "Every project shapes who we become as engineers.\n";
     }
 };
-
-
+```
